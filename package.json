@@ -2,7 +2,7 @@
   "name": "card-browser",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://tinker-tap-trading-co.github.io/card-browser",
+  "homepage": "https://tinkerandtap.github.io/card-browser",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
